@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • AI Products • Automation • Data-Driven Systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00579D,50:111827,100:000000&height=180&section=header&text=Building%20Scalable%20Digital%20Products&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00579D,50:111827,100:000000&height=180&section=header&text=Turning%20Coffee%20Into%20Scalable%20Systems&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 </div>
 
