@@ -55,10 +55,9 @@ Currently, my focus is on developing intelligent platforms such as:
 <table>
   <tr>
     <td width="50%">
-      <h3>Industrial Systems</h3>
+      <h3>Financial Systems </h3>
       <p>
-        Development of systems for engineering, processes, costs, BoM, production routings,
-        technical configurations, product rules, and industrial CPQ platforms.
+        Development of systems for quotation
       </p>
     </td>
     <td width="50%">
