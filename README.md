@@ -1,53 +1,135 @@
+<div align="center">
 
+# Danilo Macedo
 
-<p align="center">I ❤️ solve problems through codes. <br><br></p>&nbsp;
+### Full Stack Developer • Industrial CPQ • AI Products • Automation • Data-Driven Systems
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dsmacedo&theme=radical&mode=weekly" />
- </div>
- 
- &nbsp;
- &nbsp;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00579D,50:111827,100:000000&height=180&section=header&text=Building%20Scalable%20Digital%20Products&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
+</div>
 
+---
 
-## My Skills
+## About me
 
-#### Main Stack:
+I am a **Full Stack Developer** focused on building modern, scalable, and business-oriented solutions.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+I have experience building corporate applications with **Next.js, React, TypeScript, NestJS, Prisma, PostgreSQL, Docker, API integrations, automation, enterprise authentication, and rule-based systems**.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Currently, my focus is on developing intelligent platforms such as:
 
-#### Secondary Stack:
+- Quotation systems.
+- Financial management systems.
+- Modern web applications with scalable design and architecture.
+- Integrations with corporate systems, APIs, databases, and external services.
+- Products powered by artificial intelligence, automation, and data analysis.
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+---
 
-#### Workstation Tools:
+## Tech Dashboard
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+<div align="center">
 
-&nbsp;
-&nbsp;
+### Main Stack
 
-## Contacts:
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,nestjs,prisma,postgres,docker,git,github,vscode" />
 
-<div> 
-<a href="https://www.instagram.com/dan_smacedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:danilosdemacedo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danilo-macedo-19598310a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+### Frontend
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,figma" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,prisma,postgres,mongodb,redis" />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,bash,postman" />
+
+</div>
+
+---
+
+## Professional Focus
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Industrial Systems</h3>
+      <p>
+        Development of systems for engineering, processes, costs, BoM, production routings,
+        technical configurations, product rules, and industrial CPQ platforms.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Full Stack Architecture</h3>
+      <p>
+        Creation of complete applications with modern frontend, robust backend,
+        relational databases, authentication, APIs, modular organization, and best practices.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI & Automation</h3>
+      <p>
+        Interest in AI products, financial assistants, automation,
+        document reading, OCR, data analysis, and intelligent workflows.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Business-Oriented Software</h3>
+      <p>
+        Focused on transforming real-world problems into scalable digital products,
+        with attention to UX, performance, data clarity, and business impact.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Expertise
+
+```ts
+const danilo = {
+  role: "Full Stack Developer",
+  focus: [
+    "Industrial CPQ Platforms",
+    "Enterprise Web Applications",
+    "AI-powered SaaS Products",
+    "Automation and Data Systems",
+    "Financial and Business Tools",
+  ],
+  frontend: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "TailwindCSS",
+    "shadcn/ui",
+    "Framer Motion",
+    "Zustand",
+    "React Query",
+  ],
+  backend: [
+    "NestJS",
+    "Node.js",
+    "Prisma",
+    "PostgreSQL",
+    "REST APIs",
+    "JWT",
+    "Keycloak",
+    "Django",
+  ],
+  architecture: [
+    "Modular Design",
+    "Clean Code",
+    "Rule Engines",
+    "API Integration",
+    "Microservice-oriented Thinking",
+    "Docker",
+    "CI/CD",
+  ],
+  currentMission:
+    "Building scalable and intelligent platforms that connect engineering, business and automation.",
+};
